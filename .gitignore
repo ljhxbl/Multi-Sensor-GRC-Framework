@@ -1,0 +1,17 @@
+# ROS2 build folders
+build/
+install/
+log/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.so
+*.a

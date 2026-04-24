@@ -1,0 +1,6 @@
+sensor_processor_node:
+  ros__parameters:
+    image_topic: "/camera/image_raw"
+    lidar_topic: "/lidar/points"
+    voxel_size: 0.05
+    use_sim_time: true
